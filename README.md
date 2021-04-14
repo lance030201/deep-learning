@@ -4,16 +4,16 @@ Some deep learning model implementation and result
 [ToC]
 
 ## Environment
-Python --> 3.5
-tensorflow --> 1.10
-CPU --> Intel i7-7700
-GPU --> NVIDIA GeForce GTX 1080Ti
+**Python**       3.5  
+**tensorflow**   1.10  
+**CPU**          Intel i7-7700  
+**GPU**          NVIDIA GeForce GTX 1080Ti  
 
 ## What is my code doing
-train.py --> training model
-model.py --> deep model
-load_test.py --> test the result
-dataset.py --> dataset preprocessing
+**train.py**       training model  
+**model.py**       deep model  
+**load_test.py**   test the result  
+**dataset.py**     dataset preprocessing  
 
 ## Experiment
 ### LeNet
