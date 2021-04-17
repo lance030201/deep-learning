@@ -40,7 +40,7 @@ Some deep learning model implementation and result
 | :-----: | :----: | :------: | :-----------------: | :-----: | 
 | CIFAR10 | 300    | 91.66    | O                   | 0.5     |
 
-### ResNet
+### ResNet20
 
 | dataset | epochs | accuracy | batch normalization | dropout |
 | :-----: | :----: | :------: | :-----------------: | :-----: | 
