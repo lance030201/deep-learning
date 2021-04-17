@@ -44,7 +44,7 @@ Some deep learning model implementation and result
 
 | dataset | epochs | accuracy | batch normalization | dropout |
 | :-----: | :----: | :------: | :-----------------: | :-----: | 
-| CIFAR10 | 300    |     | O                   | 0.5     |
+| CIFAR10 | 300    | 90.42    | O                   | 0.5     |
 
 
 
